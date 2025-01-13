@@ -1,0 +1,1 @@
+This repositories are completely filled with school supplies. Everything is for educational purposes!
