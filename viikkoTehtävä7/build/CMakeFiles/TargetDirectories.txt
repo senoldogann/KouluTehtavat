@@ -1,0 +1,5 @@
+/Users/senoldogan/Desktop/viikkoTehtävä6/build/CMakeFiles/calculator.dir
+/Users/senoldogan/Desktop/viikkoTehtävä6/build/CMakeFiles/edit_cache.dir
+/Users/senoldogan/Desktop/viikkoTehtävä6/build/CMakeFiles/rebuild_cache.dir
+/Users/senoldogan/Desktop/viikkoTehtävä6/build/CMakeFiles/calculator_autogen_timestamp_deps.dir
+/Users/senoldogan/Desktop/viikkoTehtävä6/build/CMakeFiles/calculator_autogen.dir

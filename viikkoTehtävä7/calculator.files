@@ -1,0 +1,5 @@
+CMakeLists.txt
+build/CMakeFiles/3.31.5/CompilerIdCXX/CMakeCXXCompilerId.cpp
+main.cpp
+mainwindow.cpp
+mainwindow.h
