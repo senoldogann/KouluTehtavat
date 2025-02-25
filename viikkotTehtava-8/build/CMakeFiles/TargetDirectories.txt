@@ -1,0 +1,3 @@
+/Users/senoldogan/Desktop/viikkotTehtava-8/build/CMakeFiles/GameProject.dir
+/Users/senoldogan/Desktop/viikkotTehtava-8/build/CMakeFiles/edit_cache.dir
+/Users/senoldogan/Desktop/viikkotTehtava-8/build/CMakeFiles/rebuild_cache.dir
